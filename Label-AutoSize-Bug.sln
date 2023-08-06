@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Label-AutoSize-Bug", "Label-AutoSize-Bug\Label-AutoSize-Bug.csproj", "{430234BE-970E-4638-B152-0F07A332E10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430234BE-970E-4638-B152-0F07A332E10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430234BE-970E-4638-B152-0F07A332E10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430234BE-970E-4638-B152-0F07A332E10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430234BE-970E-4638-B152-0F07A332E10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E5A32A-9AFB-43E2-B6D8-3CDF4CC5DF45}
+	EndGlobalSection
+EndGlobal
